@@ -24,8 +24,3 @@ The development of this recommendation engine followed a mathematical pipeline:
 The first two songs in the playlist are the songs that created my centroid. The next 5 songs are my favorite songs that I was recommended.
 Click [here](https://open.spotify.com/playlist/1wo4f1Ujmn7rzAuC7pnsgt?si=4f4070ebd0144c8d) to go to the playlist.
 
-## Points
-Neural Net: 1.5
-Online Database / API Query code: 0.5
-PCA: 1
-tSNE / UMAP: 1
